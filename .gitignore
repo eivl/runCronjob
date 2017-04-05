@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # Files with secrets
-#secret.py
+secret.py
